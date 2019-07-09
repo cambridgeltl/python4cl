@@ -49,7 +49,7 @@ which you may find helpful while working on this project.
 Extensions are automatically installed if you used the provided `requirements.txt`;
 however, you need to tell Jupyter to use them by running 
 `jupyter contrib nbextension install --user`
-In your virtual environment.
+in your virtual environment.
 
 
 After you installed the extensions, you can enable them in your browser from 
