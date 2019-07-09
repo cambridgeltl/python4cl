@@ -1,3 +1,9 @@
+# Project files
+
+module_1/module_1.2/test
+
+### PYTHON-RELATED FILES START HERE ###
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -122,3 +128,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+### PYTHON-RELATED FILES END HERE ###
