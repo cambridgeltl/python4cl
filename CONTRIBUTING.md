@@ -61,5 +61,5 @@ Some recommended extensions are:
 - Table of contents, which comes in handy when working with large notebooks;
 - Live Markdown Preview, self-explanatory;
 - Scratchpad, which allows you to fire a throwaway cell by pressing CTRL+B;
-- Variable Inspector, self-explanatory.Variable Inspector
+- Variable Inspector, self-explanatory.
 
