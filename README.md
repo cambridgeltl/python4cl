@@ -27,3 +27,6 @@ The other files you see here are:
 - `README.md` is the present file;
 - `requirements.txt` contains all the Python libraries required to run the code; you will use this file when installing Python on your machine;
 - `CONTRIBUTING.md` is a file containing the guidelines we used write this course. You can peek into it if you want to write beautiful Python code!
+
+## Useful resources:
+https://www.inf.ed.ac.uk/teaching/courses/anlp/lectures/index.html
