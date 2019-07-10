@@ -4,7 +4,7 @@ An Introductory Python course for Computational Lingustics
 
 ## Configuration
 
-For this project we will use Python 3.6. 
+For this project we will use Python 3.5.1, as it is the version supported by Azure Notebooks. 
 The project structure is:
 
 ```
