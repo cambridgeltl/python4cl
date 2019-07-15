@@ -39,7 +39,8 @@ After you enable the extensions (see below), you can install the prettifier by r
 ```jupyter nbextension enable code_prettify/code_prettify``` in a terminal, or using
 the provided web interface as explained below.
 
-
+In Markdown cells, by convention, you should denote methods and function names with trailing
+parentheses, e.g. `method()`, `find()`, etc., to help the reader discriminate them from variables.
 
 ## Useful tools
 
