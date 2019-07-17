@@ -1,5 +1,19 @@
 # Contributing
 
+## Github Flow
+
+For this project we will use the [Github workflow](https://guides.github.com/introduction/flow/) development model. Please reade the guide at the provided link to have an idea of how it works.
+
+In short, 
+- Every module will have its own branch, named using the style `module_x_y`
+- You should add the Jupyter notebook or Python files in the appropriate folder, i.e.
+    - Each module will have a folder named `module_x`
+    - Each submodule will have a folder name `module_x.y`
+- When you finish developing your module, open a pull request to ask the other instructors to review what you've done
+- After the pull request is approved, it will be merged in the `main` branch.
+
+For example, if you have to create the code for module `1.3`, you should create the branch `module_1_3`, create (if does not exist) the folder `module_1`, and then the folder `module_1.3` inside it. You will write all the code inside that folder. When you have finished, you will open a pull request and the other instructors will review it.
+
 ## Code Conventions
 
 We will follow the standard Python code conventions, as described in [PEP 8](https://www.python.org/dev/peps/pep-0008/) 
