@@ -1,47 +1,89 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 61.858 61.858" style="enable-background:new 0 0 61.858 61.858;" xml:space="preserve">
-<g>
-	<g>
-		<path style="fill:#010002;" d="M50.097,0.014c-9.917,0.874-17.235,5.824-21.501,12.98c-2.859,3.584-8.57,14.526-10.647,20.254
-			c-3.766,7.123-7.05,15.598-9.62,23.238c-1.571,4.672,5.483,7.72,7.063,3.027c1.922-5.716,4.244-11.896,6.868-17.631
-			c2.604,5.828,5.25,11.637,8.091,17.354c2.202,4.438,8.828,0.546,6.634-3.877c-2.925-5.885-5.642-11.864-8.319-17.863
-			c0.034-0.116,0.077-0.229,0.113-0.344c0.446,0.127,0.938,0.166,1.48,0.063c4.096-0.769,8.192-1.536,12.291-2.305
-			c1.751-0.329,2.422-2.245,2.146-3.779c-0.828-4.597-3.447-7.795-6.707-10.821c-0.484-1.646-2.098-3.102-3.889-4.549
-			c3.631-5.87,9.559-9.056,17.275-9.736C55.313,5.68,54.001-0.329,50.097,0.014z M35.173,26.143
-			c1.013,1.054,1.875,2.163,2.526,3.447c-1.982,0.372-3.965,0.743-5.947,1.115C32.752,29.095,33.903,27.575,35.173,26.143z"/>
-		<circle style="fill:#010002;" cx="43.653" cy="15.635" r="5.275"/>
-	</g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-</svg>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Capa_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 299.99999 299.99999"
+   xml:space="preserve"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="warmup.svg"
+   width="300"
+   height="300"
+   inkscape:export-filename="/home/marco/proj/python4cl/Templates/warmup.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"><metadata
+     id="metadata45"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs43" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     id="namedview41"
+     showgrid="false"
+     inkscape:zoom="1.9075948"
+     inkscape:cx="95.592054"
+     inkscape:cy="124.85284"
+     inkscape:window-x="1985"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Capa_1" /><g
+     id="g3"
+     transform="matrix(4.5264734,0,0,4.5264734,10.001064,10.000622)"><g
+       id="g5"><path
+         style="fill:#010002"
+         d="m 50.097,0.014 c -9.917,0.874 -17.235,5.824 -21.501,12.98 -2.859,3.584 -8.57,14.526 -10.647,20.254 -3.766,7.123 -7.05,15.598 -9.62,23.238 -1.571,4.672 5.483,7.72 7.063,3.027 1.922,-5.716 4.244,-11.896 6.868,-17.631 2.604,5.828 5.25,11.637 8.091,17.354 2.202,4.438 8.828,0.546 6.634,-3.877 -2.925,-5.885 -5.642,-11.864 -8.319,-17.863 0.034,-0.116 0.077,-0.229 0.113,-0.344 0.446,0.127 0.938,0.166 1.48,0.063 4.096,-0.769 8.192,-1.536 12.291,-2.305 1.751,-0.329 2.422,-2.245 2.146,-3.779 C 43.868,26.534 41.249,23.336 37.989,20.31 37.505,18.664 35.891,17.208 34.1,15.761 37.731,9.891 43.659,6.705 51.375,6.025 55.313,5.68 54.001,-0.329 50.097,0.014 Z M 35.173,26.143 c 1.013,1.054 1.875,2.163 2.526,3.447 -1.982,0.372 -3.965,0.743 -5.947,1.115 1,-1.61 2.151,-3.13 3.421,-4.562 z"
+         id="path7"
+         inkscape:connector-curvature="0" /><circle
+         style="fill:#010002"
+         cx="43.653"
+         cy="15.635"
+         r="5.2750001"
+         id="circle9" /></g></g><g
+     id="g11"
+     transform="translate(0,238.142)" /><g
+     id="g13"
+     transform="translate(0,238.142)" /><g
+     id="g15"
+     transform="translate(0,238.142)" /><g
+     id="g17"
+     transform="translate(0,238.142)" /><g
+     id="g19"
+     transform="translate(0,238.142)" /><g
+     id="g21"
+     transform="translate(0,238.142)" /><g
+     id="g23"
+     transform="translate(0,238.142)" /><g
+     id="g25"
+     transform="translate(0,238.142)" /><g
+     id="g27"
+     transform="translate(0,238.142)" /><g
+     id="g29"
+     transform="translate(0,238.142)" /><g
+     id="g31"
+     transform="translate(0,238.142)" /><g
+     id="g33"
+     transform="translate(0,238.142)" /><g
+     id="g35"
+     transform="translate(0,238.142)" /><g
+     id="g37"
+     transform="translate(0,238.142)" /><g
+     id="g39"
+     transform="translate(0,238.142)" /></svg>
