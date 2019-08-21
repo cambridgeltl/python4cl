@@ -26,7 +26,14 @@ You should look into the folders `module_x`. Each module is divided in many subm
 The other files you see here are:
 - `README.md` is the present file;
 - `requirements.txt` contains all the Python libraries required to run the code; you will use this file when installing Python on your machine;
-- `CONTRIBUTING.md` is a file containing the guidelines we used write this course. You can peek into it if you want to write beautiful Python code!
+- `CONTRIBUTING.md` is a file containing the guidelines we used to write this course.
+
+## License
+
+The content in this repository is released under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.
+
+The icons used are made by Freepik from www.flaticon.com and are licensed with a CC 3.0 BY permissive license.
+
 
 ## Useful resources:
 https://www.inf.ed.ac.uk/teaching/courses/anlp/lectures/index.html
