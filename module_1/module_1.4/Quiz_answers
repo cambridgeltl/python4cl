@@ -1,0 +1,11 @@
+Pre-module quiz: C
+Practice quiz 1: A
+Practice quiz 2: B
+Practice quiz 3: A
+Practice quiz 4: 0.04902041788375269 (Marlowe seems to have more lexical variation)
+Practice quiz 5: Top frequent words tend to be function words. There are only a small number of them with very large number. There is also a long tail of low-frequent words. 
+Practice quiz 6: 'her beauty' occurs more often than 'his beauty', which might indicates that 'beauty' is more associated with women than with men. 
+Practice quiz 7:  The: 0.0035452013167890607, THE: 0.00010323259185274268, the: 0.020503580935675506
+Practice quiz 8: -74.21539318177221 (much less likely to occur than "To be, or not to be, that is the question:"
+Practice quiz 9: Unigram: -107.52272746936798, Bigram: -65.18214590870909
+Practice quiz 10: Bigram model will almost always have a lower perplexity.
