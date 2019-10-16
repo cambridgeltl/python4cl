@@ -32,8 +32,4 @@ The other files you see here are:
 
 The content in this repository is released under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.
 
-The icons used are made by Freepik from www.flaticon.com and are licensed with a CC 3.0 BY permissive license.
-
-
-## Useful resources:
-https://www.inf.ed.ac.uk/teaching/courses/anlp/lectures/index.html
+The icons used are made by Freepik from www.flaticon.com and are licensed with a CC 3.0 BY permissive license
