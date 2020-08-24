@@ -1,5 +1,7 @@
 # Python 4 computational linguists 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/colab_rewrite/module_1/module_1.1/module_1.1.ipynb)
+
 An Introductory Python course for Computational Lingustics.
 
 ## Configuration
