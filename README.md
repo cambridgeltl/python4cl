@@ -1,12 +1,24 @@
 # Python 4 computational linguists 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/colab_rewrite/module_1/module_1.1/module_1.1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/colab_rewrite/module_1/module_1.1/module_1.1.ipynb) 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/colab_rewrite?filepath=module_1%2Fmodule_1.1%2Fmodule_1.1.ipynb)
 
 An Introductory Python course for Computational Lingustics.
 
+## Syllabus
+
+### Module 1 : Introduction to Python for Computational Linguists 
+
+|     | Title                    | Colab     | Binder    |
+|-----|--------------------------|-----------|-----------|
+| 1.1 | About the Course         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/colab_rewrite/module_1/module_1.1/module_1.1.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/colab_rewrite?filepath=module_1%2Fmodule_1.1%2Fmodule_1.1.ipynb) |
+| 1.2 | Introduction to Python   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/colab_rewrite/module_1/module_1.2/module_1.2.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/colab_rewrite?filepath=module_1%2Fmodule_1.2%2Fmodule_1.2.ipynb) |
+| 1.3 | Basic NLP with Python    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/colab_rewrite/module_1/module_1.3/module_1.3.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/colab_rewrite?filepath=module_1%2Fmodule_1.3%2Fmodule_1.3.ipynb) |
+| 1.4 | Working with Corpus Data | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/colab_rewrite/module_1/module_1.4/module_1.4.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/colab_rewrite?filepath=module_1%2Fmodule_1.4%2Fmodule_1.4.ipynb) |
+
 ## Configuration
 
-For this project we will use Python 3.6.
+For this project we will use Python 3.6+.
 The project structure is:
 
 ```
