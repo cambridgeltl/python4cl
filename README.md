@@ -16,6 +16,14 @@ An Introductory Python course for Computational Lingustics.
 | 1.3 | Basic NLP with Python    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/colab_rewrite/module_1/module_1.3/module_1.3.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/colab_rewrite?filepath=module_1%2Fmodule_1.3%2Fmodule_1.3.ipynb) |
 | 1.4 | Working with Corpus Data | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/colab_rewrite/module_1/module_1.4/module_1.4.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/colab_rewrite?filepath=module_1%2Fmodule_1.4%2Fmodule_1.4.ipynb) |
 
+### Module 2 : Naive Bayes and POS Tagging
+
+|     | Title                    | Colab     | Binder    |
+|-----|--------------------------|-----------|-----------|
+| 1.1 | Sentiment Analysis         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/module_2.1/module_2/module_2.1/module_2.1.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/module_2.1?filepath=module_2%2Fmodule_2.1%2Fmodule_2.1.ipynb) |
+| 1.2 | Naive Bayes   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/module_2.2/module_2/module_2.2/module_2.2.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/module_2.2?filepath=module_2%2Fmodule_2.2%2Fmodule_2.2.ipynb) |
+| 1.3 | POS Tagging    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/module_2.3/module_2/module_2.3/module_2.3.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/module_2.3?filepath=module_2%2Fmodule_2.3%2Fmodule_2.3.ipynb) |
+
 ## Configuration
 
 For this project we will use Python 3.6+.
