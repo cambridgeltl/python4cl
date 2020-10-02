@@ -1,4 +1,6 @@
-# Python 4 computational linguists 
+# Python for Computational Linguists 
+
+> **IMPORTANT note**: all the contents in this repository are NOT to be accessed before Friday October 9th, 2020.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/colab_rewrite/module_1/module_1.1/module_1.1.ipynb) 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/colab_rewrite?filepath=module_1%2Fmodule_1.1%2Fmodule_1.1.ipynb)
@@ -20,11 +22,13 @@ An Introductory Python course for Computational Lingustics.
 
 |     | Title                    | Colab     | Binder    |
 |-----|--------------------------|-----------|-----------|
-| 1.1 | Sentiment Analysis         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/module_2.1/module_2/module_2.1/module_2.1.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/module_2.1?filepath=module_2%2Fmodule_2.1%2Fmodule_2.1.ipynb) |
-| 1.2 | Naive Bayes   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/module_2.2/module_2/module_2.2/module_2.2.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/module_2.2?filepath=module_2%2Fmodule_2.2%2Fmodule_2.2.ipynb) |
-| 1.3 | POS Tagging    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/module_2.3/module_2/module_2.3/module_2.3.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/module_2.3?filepath=module_2%2Fmodule_2.3%2Fmodule_2.3.ipynb) |
+| 2.1 | Sentiment Analysis         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/module_2.1/module_2/module_2.1/module_2.1.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/module_2.1?filepath=module_2%2Fmodule_2.1%2Fmodule_2.1.ipynb) |
+| 2.2 | Naive Bayes   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/module_2.2/module_2/module_2.2/module_2.2.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/module_2.2?filepath=module_2%2Fmodule_2.2%2Fmodule_2.2.ipynb) |
+| 2.3 | POS Tagging    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/module_2.3/module_2/module_2.3/module_2.3.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/module_2.3?filepath=module_2%2Fmodule_2.3%2Fmodule_2.3.ipynb) |
 
 ## Configuration
+
+> **Note**: this applies ONLY if you plan to run the course locally on your own machine. For now, we recommend accessing the course materials with Colab or Binder (see above).
 
 For this project we will use Python 3.6+.
 The project structure is:
