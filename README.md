@@ -2,8 +2,8 @@
 
 > **IMPORTANT note**: all the contents in this repository are NOT to be accessed before Friday October 9th, 2020.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/colab_rewrite/module_1/module_1.1/module_1.1.ipynb) 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/colab_rewrite?filepath=module_1%2Fmodule_1.1%2Fmodule_1.1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/master/module_1/module_1.1/module_1.1.ipynb) 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/master?filepath=module_1%2Fmodule_1.1%2Fmodule_1.1.ipynb)
 
 An Introductory Python course for Computational Lingustics.
 
