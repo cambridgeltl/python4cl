@@ -13,12 +13,14 @@ An Introductory Python course for Computational Lingustics.
 
 |     | Title                    | Colab     | Binder    |
 |-----|--------------------------|-----------|-----------|
-| 1.1 | About the Course         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/colab_rewrite/module_1/module_1.1/module_1.1.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/colab_rewrite?filepath=module_1%2Fmodule_1.1%2Fmodule_1.1.ipynb) |
-| 1.2 | Introduction to Python   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/colab_rewrite/module_1/module_1.2/module_1.2.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/colab_rewrite?filepath=module_1%2Fmodule_1.2%2Fmodule_1.2.ipynb) |
-| 1.3 | Basic NLP with Python    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/colab_rewrite/module_1/module_1.3/module_1.3.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/colab_rewrite?filepath=module_1%2Fmodule_1.3%2Fmodule_1.3.ipynb) |
-| 1.4 | Working with Corpus Data | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/colab_rewrite/module_1/module_1.4/module_1.4.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/colab_rewrite?filepath=module_1%2Fmodule_1.4%2Fmodule_1.4.ipynb) |
+| 1.1 | About the Course         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/master/module_1/module_1.1/module_1.1.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/master?filepath=module_1%2Fmodule_1.1%2Fmodule_1.1.ipynb) |
+| 1.2 | Introduction to Python   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/master/module_1/module_1.2/module_1.2.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/master?filepath=module_1%2Fmodule_1.2%2Fmodule_1.2.ipynb) |
+| 1.3 | Basic NLP with Python    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/master/module_1/module_1.3/module_1.3.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/master?filepath=module_1%2Fmodule_1.3%2Fmodule_1.3.ipynb) |
+| 1.4 | Working with Corpus Data | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/master/module_1/module_1.4/module_1.4.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/master?filepath=module_1%2Fmodule_1.4%2Fmodule_1.4.ipynb) |
 
 ### Module 2 : Naive Bayes and POS Tagging
+
+> Note: Module 2 is **not** ready for public use. These links are provided for internal testing purposes only.
 
 |     | Title                    | Colab     | Binder    |
 |-----|--------------------------|-----------|-----------|
