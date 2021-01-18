@@ -24,9 +24,9 @@ An Introductory Python course for Computational Lingustics.
 
 |     | Title                    | Colab     | Binder    |
 |-----|--------------------------|-----------|-----------|
-| 2.1 | Sentiment Analysis         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/module_2.1/module_2/module_2.1/module_2.1.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/module_2.1?filepath=module_2%2Fmodule_2.1%2Fmodule_2.1.ipynb) |
-| 2.2 | Naive Bayes   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/module_2.2/module_2/module_2.2/module_2.2.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/module_2.2?filepath=module_2%2Fmodule_2.2%2Fmodule_2.2.ipynb) |
-| 2.3 | POS Tagging    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/module_2.3/module_2/module_2.3/module_2.3.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/module_2.3?filepath=module_2%2Fmodule_2.3%2Fmodule_2.3.ipynb) |
+| 2.1 | Naive Bayes              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/master/module_2/module_2.1/module_2.1.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/master?filepath=module_2%2Fmodule_2.1%2Fmodule_2.1.ipynb) |
+| 2.2 | Sentiment Analysis       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/master/module_2/module_2.2/module_2.2.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/master?filepath=module_2%2Fmodule_2.2%2Fmodule_2.2.ipynb) |
+| 2.3 | POS Tagging             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/master/module_2/module_2.3/module_2.3.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/master?filepath=module_2%2Fmodule_2.3%2Fmodule_2.3.ipynb) |
 
 ## Configuration
 
