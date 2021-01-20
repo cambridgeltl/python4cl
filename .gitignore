@@ -2,7 +2,7 @@
 
 module_1/module_1.2/test
 module_2/module_2.1/data
-module_2/module_2.1/data.zip
+module_2/module_2.1/data.*
 
 # tmp files
 .DS_Store
