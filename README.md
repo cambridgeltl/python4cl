@@ -1,7 +1,5 @@
 # Python for Computational Linguists 
 
-> **IMPORTANT note**: all the contents in this repository are NOT to be accessed before Friday October 9th, 2020.
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/master/module_1/module_1.1/module_1.1.ipynb) 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/master?filepath=module_1%2Fmodule_1.1%2Fmodule_1.1.ipynb)
 
@@ -19,8 +17,6 @@ An Introductory Python course for Computational Lingustics.
 | 1.4 | Working with Corpus Data | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cambridgeltl/python4cl/blob/master/module_1/module_1.4/module_1.4.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cambridgeltl/python4cl/master?filepath=module_1%2Fmodule_1.4%2Fmodule_1.4.ipynb) |
 
 ### Module 2 : Naive Bayes and POS Tagging
-
-> Note: Module 2 is **not** ready for public use. These links are provided for internal testing purposes only.
 
 |     | Title                    | Colab     | Binder    |
 |-----|--------------------------|-----------|-----------|
